@@ -4,4 +4,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanseemona&show_icons=true&theme=radical)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oceanseemona&repo=github-readme-stats)](https://github.com/oceanseemona/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oceanseemona&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
